@@ -1,0 +1,8 @@
+{
+  "name": "sniper-pest-control",
+  "version": "1.0.0",
+  "private": true,
+  "description": "SNIPER Pest Control management system",
+  "scripts": {"start": "node server.js"},
+  "engines": {"node": ">=18"}
+}
